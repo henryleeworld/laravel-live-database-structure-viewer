@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "49a551dcdb1c03028cbd1b748950a59c",
+    "content-hash": "17be134bf6429087d71e2b2204a9244a",
     "packages": [
         {
             "name": "brick/math",
@@ -6720,16 +6720,16 @@
     "packages-dev": [
         {
             "name": "albertoarena/laravel-truss",
-            "version": "v1.8.1",
+            "version": "v1.8.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/albertoarena/laravel-truss.git",
-                "reference": "3ec36a0761b9667243208aaa55c210e5d6914a30"
+                "reference": "d8750756f5f239066c7f0d6e40b0eeb7e7e435bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/albertoarena/laravel-truss/zipball/3ec36a0761b9667243208aaa55c210e5d6914a30",
-                "reference": "3ec36a0761b9667243208aaa55c210e5d6914a30",
+                "url": "https://api.github.com/repos/albertoarena/laravel-truss/zipball/d8750756f5f239066c7f0d6e40b0eeb7e7e435bf",
+                "reference": "d8750756f5f239066c7f0d6e40b0eeb7e7e435bf",
                 "shasum": ""
             },
             "require": {
@@ -6797,7 +6797,7 @@
                     "type": "ko-fi"
                 }
             ],
-            "time": "2026-08-11T12:50:10+00:00"
+            "time": "2026-08-12T14:11:27+00:00"
         },
         {
             "name": "fakerphp/faker",
